@@ -1,0 +1,46 @@
+/* 
+  Localizable.strings
+  Stereo
+
+  Created by Terry Lewis on 13/08/2015.
+  Copyright (c) 2015 Terry Lewis. All rights reserved.
+*/
+
+"PLAYLISTS" = "Playlists";
+"ARTISTS" = "Artists";
+"SONGS" = "Songs";
+"ALBUMS" = "Albums";
+"GENRES" = "Genres";
+"COMPILATIONS" = "Compilations";
+"COMPOSERS" = "Composers";
+"UNKNOWN_ALBUM" = "Unknown Album";
+"UNKNOWN_ARTIST" = "Unknown Artist";
+"REPEAT" = "Repeat";
+"SHUFFLE" = "Shuffle";
+"SHUFFLE_ALL" = "Shuffle All";
+"HI_SPEED_SCRUBBING" = "Hi-Speed Scrubbing";
+"HALF_SPEED_SCRUBBING" = "Half-Speed Scrubbing";
+"QUARTER_SPEED_SCRUBBING" = "Quarter-Speed Scrubbing";
+"FINE_SCRUBBING" = "Fine Scrubbing";
+"SCRUBBING_DETAIL" = "Slide your finger down to adjust the scrubbing rate.";
+
+"ALBUM_SONGS_COUNT_FORMAT_1_ALBUM_1_SONG" = "1 album, 1 song";
+"ALBUM_SONGS_COUNT_FORMAT_1_ALBUM_X_SONGS" = "1 album, %li songs";
+"ALBUM_SONGS_COUNT_FORMAT_X_ALBUMS_1_SONG" = "%li albums, 1 song";
+"ALBUM_SONGS_COUNT_FORMAT_X_ALBUMS_Y_SONGS" = "%li albums, %li songs";
+
+"UNKNOWN_ALBUM" = "Unknown Album";
+"UNKNOWN_ALBUM_ARTIST" = "Unknown Artist";
+"UNKNOWN_AUDIOBOOK" = "Unknown Audiobook";
+"UNKNOWN_COMPILATION" = "Unknown Compilation";
+"UNKNOWN_COMPOSER" = "Unknown Composer";
+"UNKNOWN_GENRE" = "Unknown Genre";
+"UNKNOWN_PODCAST" = "Unknown Podcast";
+"UNKNOWN_PODCAST_EPISODE" = "Unknown Podcast Episode";
+"UNKNOWN_TITLE" = "Unknown Title";
+
+"REPEAT_OFF" = "Repeat Off";
+"REPEAT_SONG" = "Repeat Song";
+"REPEAT_ALL" = "Repeat All";
+"CANCEL" = "Cancel";
+"%@_OF_%@" = "%@ of %@";

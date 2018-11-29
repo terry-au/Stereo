@@ -1,0 +1,32 @@
+PODS:
+  - GVMusicPlayerController (0.5.0)
+  - JGDetailScrubber (1.0)
+  - MarqueeLabel (2.2.5)
+  - PureLayout (2.0.6)
+
+DEPENDENCIES:
+  - GVMusicPlayerController (from `CustomPods/GVMusicPlayerController`)
+  - JGDetailScrubber (from `CustomPods/JGDetailScrubber`)
+  - MarqueeLabel
+  - PureLayout
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MarqueeLabel
+    - PureLayout
+
+EXTERNAL SOURCES:
+  GVMusicPlayerController:
+    :path: CustomPods/GVMusicPlayerController
+  JGDetailScrubber:
+    :path: CustomPods/JGDetailScrubber
+
+SPEC CHECKSUMS:
+  GVMusicPlayerController: e412503c741bb8218d599b2b95f268405c2ccdb1
+  JGDetailScrubber: 3f8ca6c213fb0f383de05999e27e35205fc893f9
+  MarqueeLabel: 65ca60ee9ba554be34f35339004c6c9fe6366a31
+  PureLayout: f25f0bb904d5ccfe6e31da3cb869185259f02e0d
+
+PODFILE CHECKSUM: 2c61bad9e7d73ca3013d81a7f2dde1c40d8a691b
+
+COCOAPODS: 1.5.3
